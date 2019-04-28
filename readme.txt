@@ -1,7 +1,7 @@
-KEY DIRECTORIES
+#KEY DIRECTORIES
 
 Census data extraction:
-* Script to build the socio-economic metrics
+* Script to calculate the socio-economic metrics
 
 Census data correlation:
 * Script to build the cross-correlation matrix
